@@ -1,1 +1,1 @@
-console.log("Salom, Termux")
+console.log("Salom, Vs Code")
